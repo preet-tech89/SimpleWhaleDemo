@@ -1,4 +1,4 @@
-# docker-whale example
+# docker-whale example demo
 
 Run me : `docker run -p80:80 preet-tech89/whale-example`
 
